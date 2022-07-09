@@ -1,4 +1,4 @@
-# Redirected-walking-RDW-API
+# Redirected Walking (RDW) Library
 <p align="center">
   <img 
     width="80%"
