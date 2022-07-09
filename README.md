@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     width="80%"
-    src="/Resources/teaser_video.gif"
+    src="./Resources/teaser_video.gif"
   >
 </p>
 
@@ -31,18 +31,18 @@ RDW API는 Unity를 통해서 가상 현실 보행 기법인 Redirected walking�
 
 <p align="center">
   <img 
-    width="50%"
-    src="/Resources/how_to_use_1.png"
+    width="45%"
+    src="./Resources/how_to_use_1.png"
   >
   <img 
-    width="50%"
-    src="/Resources/how_to_use_2.png"
+    width="45%"
+    src="./Resources/how_to_use_2.png"
   >
 </p>
 <p align="center">
   <img 
-    width="50%"
-    src="/Resources/how_to_use_3.png"
+    width="45%"
+    src="./Resources/how_to_use_3.png"
   >
 </p>
 
@@ -93,7 +93,7 @@ MonoBehaviour 클래스를 상속받아서 Unity의 Component로서 Object에 �
 <p align="center">
   <img 
     width="100%"
-    src="/Resources/class_diagram_1.png"
+    src="./Resources/class_diagram_1.png"
   >
 </p>
 
@@ -119,6 +119,6 @@ MonoBehaviour 클래스를 상속받아서 Unity의 Component로서 Object에 �
 <p align="center">
   <img 
     width="100%"
-    src="/Resources/class_diagram_2.png"
+    src="./Resources/class_diagram_2.png"
   >
 </p>
