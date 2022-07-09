@@ -34,8 +34,6 @@ RDW API는 Unity를 통해서 가상 현실 보행 기법인 Redirected walking�
     width="50%"
     src="/Resources/how_to_use_1.png"
   >
-</p>
-<p align="center">
   <img 
     width="50%"
     src="/Resources/how_to_use_2.png"
