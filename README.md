@@ -1,12 +1,8 @@
 # Redirected Walking (RDW) Library
 <p align="center">
   <img 
-    width="45%"
+    width="80%"
     src="./Resources/teaser_video.gif"
-  >
-  <img 
-    width="50%"
-    src="./Resources/teaser_video2.gif"
   >
 </p>
 
